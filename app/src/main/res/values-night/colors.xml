@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色商务主题 -->
+    <color name="primary_navy">#4A90E2</color>
+    <color name="primary_navy_dark">#2C5282</color>
+    <color name="primary_navy_light">#63B3ED</color>
+    
+    <color name="accent_gold">#F6E05E</color>
+    <color name="accent_gold_light">#F7E98E</color>
+    <color name="accent_gold_dark">#D4AF37</color>
+    
+    <color name="secondary_slate">#A0AEC0</color>
+    <color name="secondary_slate_light">#CBD5E0</color>
+    <color name="secondary_slate_dark">#718096</color>
+    
+    <!-- 深色背景 -->
+    <color name="background_primary">#171923</color>
+    <color name="background_secondary">#1A202C</color>
+    <color name="background_elevated">#2D3748</color>
+    
+    <!-- 深色文本 -->
+    <color name="text_primary">#F7FAFC</color>
+    <color name="text_secondary">#A0AEC0</color>
+    <color name="text_tertiary">#718096</color>
+    <color name="text_inverse">#1A202C</color>
+    
+    <!-- 深色边框 -->
+    <color name="border_light">#2D3748</color>
+    <color name="border_medium">#4A5568</color>
+    <color name="divider">#2D3748</color>
+    
+    <!-- 兼容性颜色 -->
+    <color name="primary_blue">#4A90E2</color>
+    <color name="primary_blue_dark">#2C5282</color>
+    <color name="secondary_green">#68D391</color>
+    <color name="secondary_green_dark">#48BB78</color>
+    <color name="gray_light">#171923</color>
+    <color name="gray_medium">#A0AEC0</color>
+    <color name="gray_dark">#F7FAFC</color>
+    <color name="accent_orange">#F6AD55</color>
+    <color name="error_red">#FC8181</color>
+    <color name="success_green">#68D391</color>
+</resources>

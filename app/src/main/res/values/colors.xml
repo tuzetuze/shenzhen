@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 商务化主题色彩 -->
+    <color name="primary_navy">#1A365D</color>
+    <color name="primary_navy_dark">#0F2435</color>
+    <color name="primary_navy_light">#2C5282</color>
+    
+    <color name="accent_gold">#D4AF37</color>
+    <color name="accent_gold_light">#E6C547</color>
+    <color name="accent_gold_dark">#B8941F</color>
+    
+    <color name="secondary_slate">#4A5568</color>
+    <color name="secondary_slate_light">#718096</color>
+    <color name="secondary_slate_dark">#2D3748</color>
+    
+    <!-- 中性色 -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_50">#F7FAFC</color>
+    <color name="gray_100">#EDF2F7</color>
+    <color name="gray_200">#E2E8F0</color>
+    <color name="gray_300">#CBD5E0</color>
+    <color name="gray_400">#A0AEC0</color>
+    <color name="gray_500">#718096</color>
+    <color name="gray_600">#4A5568</color>
+    <color name="gray_700">#2D3748</color>
+    <color name="gray_800">#1A202C</color>
+    <color name="gray_900">#171923</color>
+    
+    <!-- 功能色 -->
+    <color name="success_green">#38A169</color>
+    <color name="warning_orange">#ED8936</color>
+    <color name="error_red">#E53E3E</color>
+    <color name="info_blue">#3182CE</color>
+    
+    <!-- 背景色 -->
+    <color name="background_primary">#F7FAFC</color>
+    <color name="background_secondary">#FFFFFF</color>
+    <color name="background_elevated">#FFFFFF</color>
+    
+    <!-- 文本色 -->
+    <color name="text_primary">#1A202C</color>
+    <color name="text_secondary">#4A5568</color>
+    <color name="text_tertiary">#718096</color>
+    <color name="text_inverse">#FFFFFF</color>
+    
+    <!-- 边框和分割线 -->
+    <color name="border_light">#E2E8F0</color>
+    <color name="border_medium">#CBD5E0</color>
+    <color name="divider">#E2E8F0</color>
+    
+    <!-- 阴影 -->
+    <color name="shadow_light">#1A000000</color>
+    <color name="shadow_medium">#33000000</color>
+    <color name="shadow_dark">#4D000000</color>
+    
+    <!-- 兼容性颜色 -->
+    <color name="primary_blue">#1A365D</color>
+    <color name="primary_blue_dark">#0F2435</color>
+    <color name="secondary_green">#38A169</color>
+    <color name="secondary_green_dark">#2F855A</color>
+    <color name="gray_light">#F7FAFC</color>
+    <color name="gray_medium">#718096</color>
+    <color name="gray_dark">#2D3748</color>
+    <color name="accent_orange">#ED8936</color>
+</resources>

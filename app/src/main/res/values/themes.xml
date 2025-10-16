@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- 商务化主题 -->
+    <style name="Theme.ShenzhenHousing" parent="Theme.Material3.DayNight">
+        <!-- 主色调 -->
+        <item name="colorPrimary">@color/primary_navy</item>
+        <item name="colorPrimaryVariant">@color/primary_navy_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <!-- 次要色调 -->
+        <item name="colorSecondary">@color/accent_gold</item>
+        <item name="colorSecondaryVariant">@color/accent_gold_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <!-- 表面色 -->
+        <item name="colorSurface">@color/background_secondary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorSurfaceVariant">@color/gray_100</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+        
+        <!-- 背景色 -->
+        <item name="android:colorBackground">@color/background_primary</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+        
+        <!-- 错误色 -->
+        <item name="colorError">@color/error_red</item>
+        <item name="colorOnError">@color/white</item>
+        
+        <!-- 状态栏 -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/primary_navy_dark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        
+        <!-- 导航栏 -->
+        <item name="android:navigationBarColor" tools:targetApi="l">@color/primary_navy_dark</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o">false</item>
+        
+        <!-- 应用栏样式 -->
+        <item name="colorPrimaryContainer">@color/primary_navy_light</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+        
+        <!-- 卡片样式 -->
+        <item name="colorSurfaceContainer">@color/background_elevated</item>
+        <item name="colorSurfaceContainerHigh">@color/background_elevated</item>
+        <item name="colorSurfaceContainerHighest">@color/background_elevated</item>
+    </style>
+    
+    <!-- 深色主题 -->
+    <style name="Theme.ShenzhenHousing.Dark" parent="Theme.ShenzhenHousing">
+        <item name="colorPrimary">@color/primary_navy_light</item>
+        <item name="colorPrimaryVariant">@color/primary_navy</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/accent_gold_light</item>
+        <item name="colorSecondaryVariant">@color/accent_gold</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="colorSurface">@color/background_secondary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorSurfaceVariant">@color/gray_800</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+        
+        <item name="android:colorBackground">@color/background_primary</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+        
+        <item name="android:statusBarColor" tools:targetApi="l">@color/background_primary</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        
+        <item name="android:navigationBarColor" tools:targetApi="l">@color/background_primary</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o">false</item>
+    </style>
+</resources>
